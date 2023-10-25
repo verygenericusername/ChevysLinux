@@ -1,8 +1,8 @@
 {
-  "SYSTEM": [
-    {
-      "RUNNING":"true",
-      "VERSION":"1.0.0"
-    }
-  ]
+    "SYSTEM": [
+        {
+            "RUNNING": "true",
+            "VERSION":"1.0.0"
+        }
+    ]
 }
