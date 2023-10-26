@@ -3,7 +3,7 @@
         {
             "RUNNING": "true",
             "VERSION":"1.0.0",
-            "startup":"aHR0cHM6Ly92ZXJ5Z2VuZXJpY3VzZXJuYW1lLmdpdGh1Yi5pby9DaGV2eXNMaW51eC9zdGFydHVwLm1wMw=="
+            "STARTUP":"aHR0cHM6Ly92ZXJ5Z2VuZXJpY3VzZXJuYW1lLmdpdGh1Yi5pby9DaGV2eXNMaW51eC9zdGFydHVwLm1wMw=="
         }
     ]
 }
